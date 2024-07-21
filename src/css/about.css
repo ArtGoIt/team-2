@@ -1,0 +1,9 @@
+.about-container {
+  width: 1000px;
+}
+
+button {
+  padding: 40px;
+  display: block;
+  color: tan;
+}
